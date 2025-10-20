@@ -15,7 +15,7 @@ I get my caffeine from solving real-world problems and modernizing data infrastr
 | Category | Primary Technologies & Expertise |
 | :--- | :--- |
 | **Data & AI** | **Python**, Apache Spark, **Apache Beam**, TensorFlow, Scikit-learn, **LLM Integration** (Anthropic Claude/Amazon Bedrock). |
-| **Backend & Services** | **Java/Kotlin** (Spring Boot), **Microservices**, **gRPC**, Distributed Systems. |
+| **Backend & Services** | **Java** (Spring Boot), **Microservices**, **gRPC**, Distributed Systems. |
 | **Cloud & Tools** | **AWS** (Step Functions, SQS, Lambda, Redshift, Glue), Kafka, **Elasticsearch/Kibana**, Docker, Kubernetes. |
 
 ---
@@ -36,5 +36,5 @@ My work is centered on delivering production-grade systems that drive business v
 | **Email** | `brijkpatel@gmail.com` |
 
 ***
-_Check out my **pinned repositories** below for working examples of LLM integration, Kotlin microservices, and modern AWS data pipelines!_
+_Check out my **pinned repositories**
 ***
