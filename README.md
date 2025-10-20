@@ -36,5 +36,5 @@ My work is centered on delivering production-grade systems that drive business v
 | **Email** | `brijkpatel@gmail.com` |
 
 ***
-_Check out my **pinned repositories**
+_Check out my **pinned repositories**_
 ***
